@@ -1,0 +1,14 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "Lab project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "sonar": "sonar-scanner"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "sonarqube-scanner": "^3.0.0"
+  }
+}
